@@ -12,9 +12,9 @@
 
 <br>
 
-We engineer infrastructure for temporal coherence — systems that collapse<br>divergent branches into stable, deterministic signal.
+Coroboros engineers infrastructure for temporal coherence — systems that collapse<br>divergent branches into stable, deterministic signal.
 
-We don't predict the future. We stabilize it.
+Coroboros does not predict the future. It stabilizes it.
 
 <br>
 
@@ -22,7 +22,7 @@ We don't predict the future. We stabilize it.
 
 <br>
 
-`ob@coroboros.com`
+`ob@coroboros.com · github.com/coroboros · gitlab.com/coroboros · coroboros.com`
 
 <br>
 
